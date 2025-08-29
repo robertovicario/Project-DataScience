@@ -1,0 +1,8 @@
+ipykernel
+ipywidgets
+jupyter
+matplotlib
+numpy
+pandas
+scikit-learn
+ydata-profiling
